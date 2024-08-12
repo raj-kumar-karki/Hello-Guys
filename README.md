@@ -1,12 +1,12 @@
 # Hello! Visitor  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 
-[![Visit My Website](https://www.rajkumarkarki.com.np/)]
+[![Visit My Website](https://img.shields.io/badge/Raj%20Kumar%20karki-Visit%20Website-blue)](https://www.rajkumarkarki.com.np/)
 
 I'm [Raj Kumar Karki](https://www.rajkumarkarki.com.np/), a passionate IT person lives in Nepal with a keen interest in coding and technology. I am a diligent and motivated individual who is passionate about my work. With a strong work ethic, I excel in time management and am dedicated to continuous learning and skill development. Known for my friendly demeanor, I maintain a professional and courteous attitude in all interactions. I thrive in team environments, adept at collaborating effectively and adeptly following instructions from all levels of leadership. Building strong working relationships with colleagues is a priority, contributing to a harmonious and productive work environment.
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+<img align="right" alt="GIF" src="https://www.youtube.com/" />
 
 ## Learning 📚
 
@@ -26,7 +26,7 @@ I'm [Raj Kumar Karki](https://www.rajkumarkarki.com.np/), a passionate IT person
 
 
 ## Connect with Me:
-[![Visit My Website](https://www.rajkumarkarki.com.np/)
+[![Visit My Website](https://img.shields.io/badge/Raj%20Kumar%20karki-Visit%20Website-blue)](https://www.rajkumarkarki.com.np/)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/)
 [![Facebook Profile](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/)
 [![Instagram Profile](https://img.shields.io/badge/Instagram-Profile-blue)](https://instagram.com/)
