@@ -5,8 +5,7 @@
 
 I'm [Raj Kumar Karki](https://www.rajkumarkarki.com.np/), a passionate IT person lives in Nepal with a keen interest in coding and technology. I am a diligent and motivated individual who is passionate about my work. With a strong work ethic, I excel in time management and am dedicated to continuous learning and skill development. Known for my friendly demeanor, I maintain a professional and courteous attitude in all interactions. I thrive in team environments, adept at collaborating effectively and adeptly following instructions from all levels of leadership. Building strong working relationships with colleagues is a priority, contributing to a harmonious and productive work environment.
 
-
-<img align="right" alt="GIF" src="https://www.youtube.com/" />
+<img align="right" alt="GIF" src="https://www.youtube.com/embed/KWAPM9fBSkQ?i=KX9YHsW1gX_2_vu3"/>
 
 ## Learning 📚
 
@@ -18,8 +17,6 @@ I'm [Raj Kumar Karki](https://www.rajkumarkarki.com.np/), a passionate IT person
 [![Linux](https://img.shields.io/badge/Linux-Learning-orange?style=flat&logo=linux)](https://www.linux.org/)
 [![Termux](https://img.shields.io/badge/Termux-Learning-lightgrey?style=flat&logo=android)](https://termux.com/)
 
-
-<iframe width="300" height="200" src="https://www.youtube.com/embed/KWAPM9fBSkQ?i=KX9YHsW1gX_2_vu3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;picture-in-picture" allowfullscreen></iframe> 
 
 
 ## Reach me at 📬
